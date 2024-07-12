@@ -1,3 +1,23 @@
+## LISTIFY: A To-Do List 
+A react app to manage tasks.
+
+
+## Functionality
+
+- As a user, I can add a task to the list.
+- As a user, I can see all the tasks on the list in an overview.
+- As a user, I can delete a task.
+- As a user, I can mark a task as completed.
+- As a user, I can update task.
+
+  
+# Preview of app
+![Screenshot (237)](https://github.com/user-attachments/assets/2cea1dee-6b96-45db-948d-5550fd4eb1ec)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
